@@ -26,3 +26,5 @@ To use this game, follow these steps:
 3. Choose a level of difficulty
 4. Hit the dice to increase your score
 5. Try to beat your high score and compete with other players
+
+Note: This project was created in 2020 and some aspects of it may be outdated.
